@@ -3,7 +3,7 @@
 
 
 
-Hola, mi nombre es [Tu Nombre] y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
+Hola, mi nombre es ANDY ALVARADO LEON y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
 
 
 
@@ -11,7 +11,8 @@ Hola, mi nombre es [Tu Nombre] y este es mi sitio en GitHub Pages. Este sitio es
 
 
 
-Soy un [profesión o descripción breve de ti mismo]. Me apasiona [tus intereses o pasiones] y estoy siempre buscando nuevos desafíos y oportunidades para aprender y crecer.
+Soy un ESTUDIANTE DE LA CARRERA DE INGENIERIA DE SOFTWARE. 
+Me apasiona VIDEOJUEGOS, VER SERIES Y HACER DEPORTES y estoy siempre buscando nuevos desafíos y oportunidades para aprender y crecer.
 
 
 
@@ -35,7 +36,8 @@ Aquí hay algunos de mis proyectos más destacados:
 
 
 
-Si desea contactarme, puede hacerlo a través de mi correo electrónico en [tu correo electrónico]. También puede encontrarme en [tus perfiles en las redes sociales].
+Si desea contactarme, puede hacerlo a través de mi correo electrónico en alvarado202016@hotmail.com. 
+También puede encontrarme en [tus perfiles en las redes sociales].
 
 
 
