@@ -3,7 +3,7 @@
 
 
 
-Hola, mi nombre es ANDY ALVARADO LEON y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
+Hola, mi nombre es STEVEN GANCHOZO LAINEZ y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
 
 
 
@@ -36,7 +36,7 @@ Aquí hay algunos de mis proyectos más destacados:
 
 
 
-Si desea contactarme, puede hacerlo a través de mi correo electrónico en alvarado202016@hotmail.com. 
+Si desea contactarme, puede hacerlo a través de mi correo electrónico en STEVENGANCHOZO@hotmail.com. 
 También puede encontrarme en [tus perfiles en las redes sociales].
 
 
